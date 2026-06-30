@@ -1,0 +1,239 @@
+canonical_identifier: bkk:krp/KR4h0181/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4h0181/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 全上古三代秦漢三國六朝文
+  identifiers:
+    krp: KR4h0181
+  tags:
+    tls-dates: dat04500
+    tls-internal: swl
+    kr-categories: KR4h
+  source:
+    repository: tls-texts
+    path: data/tls/KR4h0181.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4h0181_001-CHANT.yaml, hash: 'sha256:0072f84f1f992aa9b3e58ac1dd7256af5743cec78d0b1ccbfa14f425fa9b85af'}
+  - {seq: 2, filename: KR4h0181_002-CHANT.yaml, hash: 'sha256:9eca0d147e09f6e1d7d5a00620fba8f9316ce68bb3ed2aaa5146e274e0b597da'}
+  - {seq: 3, filename: KR4h0181_003-CHANT.yaml, hash: 'sha256:853bd3bc735a010fd681174b5e3550c6b912947e694989c9bf3e82ad5c7be3fd'}
+  - {seq: 4, filename: KR4h0181_004-CHANT.yaml, hash: 'sha256:c6d7ce3c01f9361661fde28ea2138005f94ce2fa146a50c859894d740f350d6e'}
+  - {seq: 5, filename: KR4h0181_005-CHANT.yaml, hash: 'sha256:97b6eb04c65a0103a80a8f7a47b5c2d8ea53341bfe89b5ff17412f87ff0fae1e'}
+  - {seq: 6, filename: KR4h0181_006-CHANT.yaml, hash: 'sha256:9b6c6897a52a45b79c4f0d96a8a2b5d461f4ecd5e25d37372decb69f61be946d'}
+  - {seq: 7, filename: KR4h0181_007-CHANT.yaml, hash: 'sha256:707f9878bb78937e7cf0164b643b736569d2d1723baf77791b92078217bd9cc3'}
+  - {seq: 8, filename: KR4h0181_008-CHANT.yaml, hash: 'sha256:b8671e37aaf0819daeb3b890b496e0b3757e421d7c6335b37e51d0337f663f37'}
+  - {seq: 9, filename: KR4h0181_009-CHANT.yaml, hash: 'sha256:2b7215c92c557a7b3527261bb88cd3a7823f004a7de39a2b41a2b0ed950d5354'}
+  - {seq: 10, filename: KR4h0181_010-CHANT.yaml, hash: 'sha256:207fb1dfb823d3c55650009068f77642b30215b202d05a5af327278795cf545e'}
+  - {seq: 11, filename: KR4h0181_011-CHANT.yaml, hash: 'sha256:af3d27e87e822861dfb9a656ee6e29ba4ecaedbd621b2f6db0d43c9904a8f6de'}
+  - {seq: 12, filename: KR4h0181_012-CHANT.yaml, hash: 'sha256:74566b1345e5aaebc8db263adeebe31917426b1864904b730e2e3e20559c8e89'}
+  - {seq: 13, filename: KR4h0181_013-CHANT.yaml, hash: 'sha256:d74964abb40612758de7324b148d0f38f6fcf0bc70fb047c644382df0663f719'}
+  - {seq: 14, filename: KR4h0181_014-CHANT.yaml, hash: 'sha256:803952847a83743e62e9c8078e02eea5e8059b603d210276be373d9f5e9ac371'}
+  - {seq: 15, filename: KR4h0181_015-CHANT.yaml, hash: 'sha256:556289c5e89b3a116841a986b24fe5f35a59c78ecbed7e4babd8a69fb7ad468f'}
+  - {seq: 16, filename: KR4h0181_016-CHANT.yaml, hash: 'sha256:5177fc9146d89aff5722be8230714bda55d62510007ad6f1bffdd8b2f579756e'}
+  - {seq: 17, filename: KR4h0181_017-CHANT.yaml, hash: 'sha256:e642774dfa681b279c6d8717b2bf086ac71208c86c0c5088498402f0664eaec0'}
+  - {seq: 18, filename: KR4h0181_018-CHANT.yaml, hash: 'sha256:3d97fe8f7fe023e1741542842609bf9ae835efcd184f9593128e02a164dc0d2e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4h0181_001-CHANT.markers.yaml, hash: 'sha256:ecddec6cc910dee79e430e1373b2d5de2c5a685cacc74c6066c929f00384e26c'}
+  - {seq: 2, role: markers, filename: assets/KR4h0181_002-CHANT.markers.yaml, hash: 'sha256:1a53d14b110732aa148567dc83dcaa5136c70537b248973865bb36ded4e61fea'}
+  - {seq: 3, role: markers, filename: assets/KR4h0181_003-CHANT.markers.yaml, hash: 'sha256:bb9001d87f549170f0180fc36e1a9f4513043d8239a6f05bee43a9d9d4cc6533'}
+  - {seq: 4, role: markers, filename: assets/KR4h0181_004-CHANT.markers.yaml, hash: 'sha256:5fd7bc249bcad306b4f807c7552e5f93fed4b5e6da79d39ee74c6c6405a2cbca'}
+  - {seq: 5, role: markers, filename: assets/KR4h0181_005-CHANT.markers.yaml, hash: 'sha256:e3897daf95638606def2dd072fa90fb92e901b4206d44ed2695c7a8b5b9110db'}
+  - {seq: 6, role: markers, filename: assets/KR4h0181_006-CHANT.markers.yaml, hash: 'sha256:179eedcb82017ef4a1be6d2ad72fbac0ea85a6b27febb0885bcb7ca0711459d3'}
+  - {seq: 7, role: markers, filename: assets/KR4h0181_007-CHANT.markers.yaml, hash: 'sha256:615122a59c53eca696ac9b51a417ff0af9a4180d7ae9e44f7d388ee89f8b2715'}
+  - {seq: 8, role: markers, filename: assets/KR4h0181_008-CHANT.markers.yaml, hash: 'sha256:0a73d24eb4f5a2f04e22d5e1e61ff0ac23e250a7752bcfa82b0d9fd5ff81df4c'}
+  - {seq: 9, role: markers, filename: assets/KR4h0181_009-CHANT.markers.yaml, hash: 'sha256:a7168b3993506a58364708f9a691b1cc3e7a179b8fc938f6bc2ee31eeb2a03cf'}
+  - {seq: 10, role: markers, filename: assets/KR4h0181_010-CHANT.markers.yaml, hash: 'sha256:16bab4b9ae8a05110d1909ad83f469c440a77266957fcc94f86264520296153e'}
+  - {seq: 11, role: markers, filename: assets/KR4h0181_011-CHANT.markers.yaml, hash: 'sha256:c757b9faff19a331a9d038374b832c33edb6ddb624e8f00a53f5039ace1c09e3'}
+  - {seq: 12, role: markers, filename: assets/KR4h0181_012-CHANT.markers.yaml, hash: 'sha256:746615861d3777964ac6816d98c6382ea0849e6971c7a5733ca8701a966c8749'}
+  - {seq: 13, role: markers, filename: assets/KR4h0181_013-CHANT.markers.yaml, hash: 'sha256:e7b8b7feb8cfd5d441db65068bed785697548dd81a058ec8f170018b7cd9c484'}
+  - {seq: 14, role: markers, filename: assets/KR4h0181_014-CHANT.markers.yaml, hash: 'sha256:dd2bf4a526b16db929a48a40a415543bb62be9f9603d6b95400a4ef0c87f356d'}
+  - {seq: 15, role: markers, filename: assets/KR4h0181_015-CHANT.markers.yaml, hash: 'sha256:d5a53a441a50f2a2354df962ded8a7529730d0eb976917b00887c81afa1226d2'}
+  - {seq: 16, role: markers, filename: assets/KR4h0181_016-CHANT.markers.yaml, hash: 'sha256:151a011014940bd3298eaa0f37cc9861dc7963623bf71a4554187d5e110e2890'}
+  - {seq: 17, role: markers, filename: assets/KR4h0181_017-CHANT.markers.yaml, hash: 'sha256:3e71e6af7923cb141caf8681c4771324f574ba7e971c091ba24acb3f0c9d2e6d'}
+  - {seq: 18, role: markers, filename: assets/KR4h0181_018-CHANT.markers.yaml, hash: 'sha256:4929f2b29c9ad323ea3620ee9d0da49f76709fca212418e6674ad8d2e8538227'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4h0181_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2955
+  label: 武帝
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4h0181_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 7586
+  label: 文帝
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4h0181_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 5789
+  label: 廢帝
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4h0181_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 5394
+  label: 後主
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4h0181_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 4693
+  label: 周弘正
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4h0181_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 5818
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4h0181_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 5995
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4h0181_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 5151
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4h0181_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 6528
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4h0181_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 7426
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR4h0181_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 8020
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR4h0181_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 5027
+  label: 虞荔
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR4h0181_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 2808
+  label: 沈洙
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR4h0181_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 7144
+  label: 沈炯
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR4h0181_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 4408
+  label: 許亨
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR4h0181_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 4521
+  label: 張正見
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR4h0181_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 5801
+  label: 陸瓊
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR4h0181_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 5438
+  label: 闕名
+  type: section
+  level: 1
+hash: sha256:63a8b057f32eafb8b762f6a7566858c6228ee6506056bcc6cad7445bc30df9d7
